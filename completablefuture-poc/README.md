@@ -1,9 +1,9 @@
 # completablefuture-demo
-#### Overview
+#### **Overview**
 
 This demo application helps employees set reminders while providing real-time updates on stock prices, news, and weather. It uses Java's CompletableFuture for fetching data asynchronously.
 
-#### Features
+#### **Features**
 
 Reminders: Set and manage task reminders.
 
@@ -13,7 +13,7 @@ News: Retrieve current news headlines.
 
 Weather: Access current weather conditions.
 
-#### Technologies
+#### **Technologies**
 
 Java 17+
 
