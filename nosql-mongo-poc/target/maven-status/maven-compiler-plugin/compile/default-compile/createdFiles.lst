@@ -1,0 +1,5 @@
+com\test\mongo\MongoAutoSequenceExampleApplication.class
+com\test\mongo\entity\Book.class
+com\test\mongo\entity\DbSequence.class
+com\test\mongo\repository\BookRepository.class
+com\test\mongo\service\SequenceGeneratorService.class

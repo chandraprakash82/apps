@@ -1,0 +1,7 @@
+com\test\config\GraphQLClientConfig.class
+com\test\controller\CatalogController.class
+com\test\client\InventoryClient.class
+com\test\CatalogServiceApplication.class
+com\test\service\CatalogService.class
+com\test\dto\ItemRequestDTO.class
+com\test\dto\Item.class

@@ -1,0 +1,5 @@
+com\test\resource\ProductController.class
+com\test\InventoryServiceApplication.class
+com\test\service\ProductService.class
+com\test\repository\ProductRepository.class
+com\test\entity\Product.class

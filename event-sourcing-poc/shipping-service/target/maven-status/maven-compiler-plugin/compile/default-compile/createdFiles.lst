@@ -1,0 +1,6 @@
+com\test\entity\OrderEvent.class
+com\test\repository\OrderEventRepository.class
+com\test\dto\enums\OrderStatus.class
+com\test\service\ShippingEventService.class
+com\test\ShippingServiceApplication.class
+com\test\controller\ShippingController.class

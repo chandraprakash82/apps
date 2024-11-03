@@ -1,0 +1,8 @@
+com\test\webflux\dto\Customer.class
+com\test\webflux\dao\CustomerDao.class
+com\test\webflux\service\CustomerService.class
+com\test\webflux\handler\CustomerStreamHandler.class
+com\test\webflux\handler\CustomerHandler.class
+com\test\webflux\router\RouterConfig.class
+com\test\webflux\controller\CustomerController.class
+com\test\webflux\SpringbootWebfluxDemoApplication.class

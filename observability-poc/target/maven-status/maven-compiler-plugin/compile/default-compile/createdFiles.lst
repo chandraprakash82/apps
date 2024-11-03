@@ -1,0 +1,7 @@
+com\test\controller\ProductController.class
+com\test\service\ProductService.class
+com\test\aspect\ObservationAspectConfig.class
+com\test\JpaDemoApplication.class
+com\test\repository\ProductRepository.class
+com\test\aspect\PerformanceTrackerHandler.class
+com\test\entity\Product.class

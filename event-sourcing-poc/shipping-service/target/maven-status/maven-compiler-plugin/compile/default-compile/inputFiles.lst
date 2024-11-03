@@ -1,0 +1,6 @@
+D:\chandra\Workspace\ForUpload\28Oct2024\event-sourcing-poc\shipping-service\src\main\java\com\test\controller\ShippingController.java
+D:\chandra\Workspace\ForUpload\28Oct2024\event-sourcing-poc\shipping-service\src\main\java\com\test\dto\enums\OrderStatus.java
+D:\chandra\Workspace\ForUpload\28Oct2024\event-sourcing-poc\shipping-service\src\main\java\com\test\entity\OrderEvent.java
+D:\chandra\Workspace\ForUpload\28Oct2024\event-sourcing-poc\shipping-service\src\main\java\com\test\repository\OrderEventRepository.java
+D:\chandra\Workspace\ForUpload\28Oct2024\event-sourcing-poc\shipping-service\src\main\java\com\test\service\ShippingEventService.java
+D:\chandra\Workspace\ForUpload\28Oct2024\event-sourcing-poc\shipping-service\src\main\java\com\test\ShippingServiceApplication.java

@@ -1,0 +1,10 @@
+com\test\config\CustomUserDetails.class
+com\test\dto\AuthRequest.class
+com\test\IdentityServiceApplication.class
+com\test\config\AuthConfig.class
+com\test\entity\UserCredential.class
+com\test\service\JwtService.class
+com\test\controller\AuthController.class
+com\test\repository\UserCredentialRepository.class
+com\test\service\AuthService.class
+com\test\config\CustomUserDetailsService.class

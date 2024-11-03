@@ -1,0 +1,6 @@
+com\test\service\SwiggyAppService.class
+com\test\controller\SwiggyAppController.class
+com\test\SwiggyAppApplication.class
+com\test\config\SwiggyAppConfig.class
+com\test\dto\OrderResponseDTO.class
+com\test\client\RestaurantServiceClient.class

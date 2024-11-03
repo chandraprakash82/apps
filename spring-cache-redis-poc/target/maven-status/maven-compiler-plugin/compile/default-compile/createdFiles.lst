@@ -1,0 +1,4 @@
+com\test\redis\SpringDataRedisExampleApplication.class
+com\test\redis\respository\ProductDao.class
+com\test\redis\config\RedisConfig.class
+com\test\redis\entity\Product.class

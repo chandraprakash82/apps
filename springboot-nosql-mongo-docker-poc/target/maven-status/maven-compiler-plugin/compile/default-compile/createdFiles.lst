@@ -1,0 +1,3 @@
+com\test\docker\compose\SpringbootMongodbDockerApplication.class
+com\test\docker\compose\dao\BookRepository.class
+com\test\docker\compose\model\Book.class

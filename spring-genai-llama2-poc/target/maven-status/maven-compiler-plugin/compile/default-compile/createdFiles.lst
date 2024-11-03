@@ -1,0 +1,3 @@
+com\test\SpringAiLlama2Application.class
+com\test\service\LlamaAiService.class
+com\test\controller\AIController.class

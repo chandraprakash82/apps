@@ -1,0 +1,10 @@
+com\test\dto\response\OrderResponse.class
+com\test\entity\OrderEvent.class
+com\test\repository\OrderEventRepository.class
+com\test\dto\enums\OrderStatus.class
+com\test\OrderServiceApplication.class
+com\test\controller\OrderController.class
+com\test\service\OrderService.class
+com\test\publisher\OrderEventKafkaPublisher.class
+com\test\config\KafkaConfig.class
+com\test\dto\request\OrderRequest.class
